@@ -4,13 +4,13 @@
 This project implements K-means clustering and showcases some theoretical work in relation to machine learning.
 
 Theoretical Work:
-1. `CS 4375 Assignment 3 Report.pdf` - Contains all 3 theoretical questions
+- `CS 4375 Assignment 3 Report.pdf` - Contains all 3 theoretical questions
 
 Coding Work:
-2. `CS 4375 Assignment 3.ipynb` Implementation of a K-means clustering algorithm to cluster redundant/repeated tweets into the same cluster.
-3. `README.md` - This README.
+- `CS 4375 Assignment 3.ipynb` Implementation of a K-means clustering algorithm to cluster redundant/repeated tweets into the same cluster.
+- `README.md` - This README.
 
-- Libraries Used:
+Libraries Used:
   - pandas
   - re
   - random
